@@ -1,0 +1,5 @@
+.env
+*.log
+logs/
+job-scheduler.exe
+job-scheduler
