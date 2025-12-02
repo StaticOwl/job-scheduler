@@ -2,6 +2,14 @@
 
 A lightweight, high-performance job scheduler daemon built in Go that monitors and executes jobs from a PostgreSQL database with configurable concurrent execution limits.
 
+Built with Claude Code as a part of Experiment. The goals are:
+> Capabilities of AI Tools to generate project.
+> Extent of features can be written with AI Tools.
+> Extent of Customisation can be done to AI Tools.
+> Accuracy of AI Tools.
+
+Ultimate Purpose: At least automate 70-80% of code generation with AI Tools, if working.
+
 ## Features
 
 - **Web Dashboard** - Real-time job visualization and management UI
